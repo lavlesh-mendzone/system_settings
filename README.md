@@ -48,3 +48,9 @@ If your problem or idea is not addressed yet, [please open a new issue](https://
 
 Code copyright 2020–2022 Florian Weinaug.
 Code released under the [MIT license](https://github.com/fweinaug/system_settings/blob/master/LICENSE).
+
+
+
+Bug:
+1: It does not have an option to access contaxt
+
